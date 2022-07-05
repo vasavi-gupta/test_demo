@@ -1,8 +1,12 @@
 hello dummy
 i wont
 <<<<<<< HEAD
+<<<<<<< HEAD
 maybe
 
+=======
+lets see
+>>>>>>> 82a8d6ae3a11e3206e19365fdfcdfc078fe8fcb7
 =======
 lets see
 >>>>>>> 82a8d6ae3a11e3206e19365fdfcdfc078fe8fcb7
